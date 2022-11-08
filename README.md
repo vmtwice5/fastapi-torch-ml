@@ -1,4 +1,4 @@
-# African Wildlife
+# FastAPI - Torch - Machine Learning
 
 Minimal machine learning API, inspired by [fastai MOOC](https://course.fast.ai/) and [cougar-or-not api](https://github.com/simonw/cougar-or-not)
 
